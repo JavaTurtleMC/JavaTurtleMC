@@ -1,6 +1,3 @@
-![snake](https://raw.githubusercontent.com/javaturtlemc/YOUR_GITHUB/output/snake-purple.svg)
-
-
 
 <h1 align="center">Hello, I am JavaTurtleMC</h1>
 <h3 align="center">A self-taught Python developer.</h3>
