@@ -1,7 +1,3 @@
-<img src="https://raw.githubusercontent.com/JavaTurtleMC/README.md/main/profileBanner.svg" width="100%">
-
-
-
 
 <h1 align="center">Hello, I am JavaTurtleMC</h1>
 <h3 align="center">A self-taught Python developer.</h3>
