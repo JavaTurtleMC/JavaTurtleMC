@@ -2,20 +2,7 @@
   <img src="./GitHub Portfolio.png" width="100%">
 </p>
 
-
-
-
-
-<h1 align="center">Hello, I am JavaTurtleMC</h1>
-<h3 align="center">A self-taught Python developer.</h3>
-
-- 🔭 I’m currently working on **Home Radar**
-
-- 🌱 I’m currently learning **PySide6**
-
-- ⚡ Fun fact **I use Arch, btw.**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Other Socials:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/javaturtlemc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="javaturtlemc" height="30" width="40" /></a>
 </p>
