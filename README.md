@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./fastfetch.png" width="100%">
+  <img src="./GitHub Portfolio.png" width="100%">
 </p>
 
 
