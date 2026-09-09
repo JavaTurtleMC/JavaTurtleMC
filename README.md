@@ -1,25 +1,5 @@
-
-<pre>
-<span style="color:#58A6FF">javaturtlemc</span> <span style="color:#8B949E">─────────────────────────────────────────────────────────</span>
-<span style="color:#7EE787">. OS:</span>   <span style="color:#8B949E">. . . . . . . . . .</span> <span style="color:#C9D1D9">Arch Linux, ROCKNIX Linux, SteamOS Linux</span>
-<span style="color:#7EE787">. Uptime:</span>   <span style="color:#8B949E">. . . . . . . . . . . . . . . . .</span> <span style="color:#C9D1D9">Many years, lost count</span>
-<span style="color:#7EE787">. Host:</span>   <span style="color:#8B949E">. . . . . . . . . . . . . . . . . .</span>  <span style="color:#C9D1D9">Independent Developer</span>
-<span style="color:#7EE787">. Kernel:</span>   <span style="color:#8B949E">. . . . . . . . . . . . .</span>  <span style="color:#C9D1D9">Software/Hardware Development</span>
-<span style="color:#7EE787">. IDE:</span>  <span style="color:#8B949E">. . . . . . . . . . . . . . . . . . . . . . . . . .</span> <span style="color:#C9D1D9">VSCodium</span>
-</pre>
-
-
-
-
-
-
-
-
-
-
-
 <p align="center">
-  <img src="./GitHub Portfolio SVG Format.svg" width="100%">
+  <img src="./GitHub Portfolio.png" width="100%">
 </p>
 
 
