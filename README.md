@@ -38,3 +38,9 @@
   <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
 </p>
+
+<div align="left">
+  <img src="https://github-stats-extended.vercel.app/api?username=JavaTurtleMC&show_icons=true&include_all_commits=true&theme=catppuccin_mocha&card_width=500">
+  <br>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=JavaTurtleMC&langs_count=4&theme=catppuccin_mocha&card_width=500">
+</div>
