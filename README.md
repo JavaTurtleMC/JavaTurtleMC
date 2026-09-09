@@ -1,30 +1,11 @@
 
 <pre>
-<span style="color:#58a6ff">javaturtlemc</span> <span style="color:#8b949e">─────────────────────────────────</span>
-
-<span style="color:#7ee787">. OS:</span>   <span style="color:#8b949e">. . . . . . . . . .</span> <span style="color:#c9d1d9">Arch Linux, ROCKNIX Linux, SteamOS Linux</span>
-
-<span style="color:#7ee787">. Uptime:</span>   <span style="color:#8b949e">. . . . . . . . . . . . . . . . .</span> <span style="color:#c9d1d9">Many years, lost count</span>
-
-<span style="color:#7ee787">. Host:</span>   <span style="color:#8b949e">. . . . . . . . . . . . . . . . . .</span> <span style="color:#c9d1d9">Independent Developer</span>
-
-<span style="color:#7ee787">. Kernel:</span>   <span style="color:#8b949e">. . . . . . . . . . . . .</span> <span style="color:#c9d1d9">Software/Hardware Development</span>
-
-<span style="color:#7ee787">. IDE:</span>  <span style="color:#8b949e">. . . . . . . . . . . . . . . . . . . . . . . . . .</span> <span style="color:#c9d1d9">VSCodium</span>
-
-<span style="color:#8b949e">.</span>
-
-<span style="color:#7ee787">. Languages.Programming:</span>  <span style="color:#8b949e">. . . . . . . . . . . . . . . . . .</span> <span style="color:#c9d1d9">Python</span>
-
-<span style="color:#7ee787">. Languages.Computer:</span>   <span style="color:#8b949e">. . . . . . . . . . . . . . . .</span> <span style="color:#c9d1d9">HTML, CSS, JSON</span>
-
-<span style="color:#7ee787">. Languages.Real:</span>   <span style="color:#8b949e">. . . . . . . . . . . . . . . . . .</span> <span style="color:#c9d1d9">English, Chinese</span>
-
-<span style="color:#8b949e">.</span>
-
-<span style="color:#7ee787">. Hobbies.Software:</span>   <span style="color:#8b949e">. . . . .</span> <span style="color:#c9d1d9">Minecraft Modding, Helldiver 2 Modding</span>
-
-<span style="color:#7ee787">. Hobbies.Hardware:</span>   <span style="color:#8b949e">. . . . . . . . . .</span> <span style="color:#c9d1d9">3D Printing, ESP32 Testing</span>
+<span style="color:#58A6FF">javaturtlemc</span> <span style="color:#8B949E">─────────────────────────────────</span>
+<span style="color:#7EE787">. OS:</span>   <span style="color:#8B949E">. . . . . . . . . .</span> <span style="color:#C9D1D9">Arch Linux, ROCKNIX Linux, SteamOS Linux</span>
+<span style="color:#7EE787">. Uptime:</span>   <span style="color:#8B949E">. . . . . . . . . . . . . . . . .</span> <span style="color:#C9D1D9">Many years, lost count</span>
+<span style="color:#7EE787">. Host:</span>   <span style="color:#8B949E">. . . . . . . . . . . . . . . . . .</span>  <span style="color:#C9D1D9">Independent Developer</span>
+<span style="color:#7EE787">. Kernel:</span>   <span style="color:#8B949E">. . . . . . . . . . . . .</span>  <span style="color:#C9D1D9">Software/Hardware Development</span>
+<span style="color:#7EE787">. IDE:</span>  <span style="color:#8B949E">. . . . . . . . . . . . . . . . . . . . . . . . . .</span> <span style="color:#C9D1D9">VSCodium</span>
 </pre>
 
 
