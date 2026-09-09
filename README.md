@@ -1,6 +1,6 @@
 
 <pre>
-<span style="color:#58A6FF">javaturtlemc</span> <span style="color:#8B949E">─────────────────────────────────────────</span>
+<span style="color:#58A6FF">javaturtlemc</span> <span style="color:#8B949E">─────────────────────────────────────────────────────────</span>
 <span style="color:#7EE787">. OS:</span>   <span style="color:#8B949E">. . . . . . . . . .</span> <span style="color:#C9D1D9">Arch Linux, ROCKNIX Linux, SteamOS Linux</span>
 <span style="color:#7EE787">. Uptime:</span>   <span style="color:#8B949E">. . . . . . . . . . . . . . . . .</span> <span style="color:#C9D1D9">Many years, lost count</span>
 <span style="color:#7EE787">. Host:</span>   <span style="color:#8B949E">. . . . . . . . . . . . . . . . . .</span>  <span style="color:#C9D1D9">Independent Developer</span>
