@@ -1,4 +1,4 @@
-```html
+
 <pre>
 <span style="color:#58a6ff">javaturtlemc</span> <span style="color:#8b949e">─────────────────────────────────</span>
 
@@ -26,7 +26,7 @@
 
 <span style="color:#7ee787">. Hobbies.Hardware:</span>   <span style="color:#8b949e">. . . . . . . . . .</span> <span style="color:#c9d1d9">3D Printing, ESP32 Testing</span>
 </pre>
-```
+
 
 
 
